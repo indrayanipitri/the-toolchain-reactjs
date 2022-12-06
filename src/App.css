@@ -24,3 +24,16 @@ nav a {
   margin-right: 20px;
  
 }
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+li {
+  margin-bottom: 20px;
+}
+
+a:hover {
+  color: yellow;
+}
