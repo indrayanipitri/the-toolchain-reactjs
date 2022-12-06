@@ -6,6 +6,6 @@
 //     return <h2>Welcome H2</h2>
 // }
 
-export function WelcomeH3(props) {
-    return <h3>{props.children}</h3>
+export function Button(props) {
+    return <button className="btn">{props.children}</button>
 }
