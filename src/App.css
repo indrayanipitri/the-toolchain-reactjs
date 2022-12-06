@@ -17,3 +17,10 @@ button, span, label, input {
 button {
   margin-left: 8px;
 }
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+ 
+}
